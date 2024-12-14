@@ -33,4 +33,4 @@ The files with spaces in their titles are the scripts where the previously menti
 | Extracting Prizes SinceParis.py       | Extracts detailed data starting from Paris 2024.          | Olympic Prizes.csv (added rows)              |
 | Extracting Medalists SinceParis.py    | Extracts detailed data starting from Paris 2024.          | Olympic Medalists.csv (added rows)           |
 
-The visual project is located in my portfolio site: 
+The visual project is located in my portfolio site: https://project.novypro.com/IYwptn
