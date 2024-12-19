@@ -34,3 +34,5 @@ The files with spaces in their titles are the scripts where the previously menti
 | Extracting Medalists SinceParis.py    | Extracts detailed data starting from Paris 2024.          | Olympic Medalists.csv (added rows)           |
 
 The visual project is located in my portfolio site: https://project.novypro.com/IYwptn
+
+The intention will be update the data in each olympic winter and summer session, tracking data from the official site.
