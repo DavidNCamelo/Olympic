@@ -1,3 +1,6 @@
 # Doesn't publich the PBI report into the github repository
 *.pbix
+
+#Doesnt publish the images
 *.png
+*.avif
