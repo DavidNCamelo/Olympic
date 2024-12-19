@@ -1,8 +1,8 @@
-# Olympic Scraping
+# Olympic Games Dataset | Medal and Event Data Extraction
 
-After spending considerable time searching for a complete dataset of all historical Modern Olympic Games, the results were still limited. So, with my basic web scraping skills, I set out to retrieve as much data as possible on all events.
+If you've been searching for a complete dataset of historical Modern Olympic Games but found limited results, this repository is your solution. Using basic web scraping techniques, this project gathers detailed data on Olympic events, medals, and athletes, directly from the official website (https://olympics.com/en/olympic-games)
 
-This repository contains the scripts developed to gather that data, with adjustments to accommodate updates made to the Olympic website (https://olympics.com/en/olympic-games) for recent events. It was challenging to retrieve data for past games, while the new website structure makes it easier to access detailed information on athletes and competitions.
+The repository contains scripts and tools to extract and update data for each Olympic session, making it a valuable resource for researchers, data analysts, and sports enthusiasts. Whether you're analyzing historical trends or visualizing medal counts, you'll find the data you need here.
 
 ## Class scripts
 
@@ -33,6 +33,17 @@ The files with spaces in their titles are the scripts where the previously menti
 | Extracting Prizes SinceParis.py       | Extracts detailed data starting from Paris 2024.          | Olympic Prizes.csv (added rows)              |
 | Extracting Medalists SinceParis.py    | Extracts detailed data starting from Paris 2024.          | Olympic Medalists.csv (added rows)           |
 
-The visual project is located in my portfolio site: https://project.novypro.com/IYwptn
+### Sample Visualization
 
-The intention will be update the data in each olympic winter and summer session, tracking data from the official site.
+The visual project is located in my portfolio site: https://project.novypro.com/IYwptn
+![Presentation](<Olympic Games History.png>)
+
+### Periodic Updates
+This dataset is updated after every Olympic session (both Summer and Winter) to ensure accuracy and relevance.  tracking data from the official site.
+
+## Tags and Keywords
+* Olympic Games Dataset
+* Historical Medal Data
+* Sports Data Analysis
+* Web Scraping for Sports
+* Modern Olympic Games Data
