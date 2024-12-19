@@ -2,9 +2,9 @@
 
 After spending considerable time searching for a complete dataset of all historical Modern Olympic Games, the results were still limited. So, with my basic web scraping skills, I set out to retrieve as much data as possible on all events.
 
-This repository contains the scripts developed to gather that data, with adjustments to accommodate updates made to the Olympic website for recent events. It was challenging to retrieve data for past games, while the new website structure makes it easier to access detailed information on athletes and competitions.
+This repository contains the scripts developed to gather that data, with adjustments to accommodate updates made to the Olympic website (https://olympics.com/en/olympic-games) for recent events. It was challenging to retrieve data for past games, while the new website structure makes it easier to access detailed information on athletes and competitions.
 
-## CLass scripts
+## Class scripts
 
 The files with no spaces in their titles are the class scripts used to retrieve data. These scripts are as follows:
 
